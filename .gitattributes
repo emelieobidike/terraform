@@ -11,7 +11,7 @@
 
 *.jpg  	binary
 *.png 	binary
-*.gif 	binary
+*.gif 	binary 
 
 *.cs text=auto diff=csharp 
 *.vb text=auto
